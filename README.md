@@ -1,2 +1,2 @@
-# codeforces
-For competitive programming
+# Competitive Programming
+For competitive programming on Codeforces and Leetcode.
