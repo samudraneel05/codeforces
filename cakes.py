@@ -20,5 +20,6 @@ for _ in range(t):
                 bob_cakes.append(cakes[i])
             else:
                 while cakes.count(cakes[i])!= 1:
-                    i
+                    ## damn logic, won't work
+                    cakes.remove(cakes[i])
     print(len(alice_cakes))
